@@ -1,0 +1,47 @@
+# Zippily
+
+> Zippily is an Auckland-based HubSpot Gold Partner and CRM implementation agency helping New Zealand businesses streamline their sales, marketing, and operations through HubSpot, Attio, and supporting B2B tech stack tools.
+
+## About
+Zippily is a trusted CRM partner based in Auckland, New Zealand. We specialise in affordable, fast, and people-first CRM implementation, training, and automation for B2B businesses. Our team works across HubSpot, Attio, Folk CRM, PandaDoc, and Aircall to deliver bespoke solutions tailored to each client's needs.
+
+## Services
+- CRM Implementation: Full scoping, configuration, and setup of HubSpot and Attio CRM portals
+- HubSpot Training: Tailored training for teams from basic functions to advanced features
+- Marketing Automations: Workflow setup, lead nurturing, and personalised customer journeys
+- Buyer Journey Workshop: Mapping customer touchpoints from awareness to close
+- CRM Audit: Identifying opportunities and ensuring clients get maximum value from their CRM
+- Custom Integrations: Connecting HubSpot and Attio with wider tech stacks
+- RevOps Retainer Packages: Ongoing revenue operations support and optimisation
+
+## Platforms
+- HubSpot (Gold Partner)
+- Attio CRM
+- Folk CRM
+- PandaDoc
+- Aircall
+
+## Industries Served
+- Financial Services: CRM for financial advisers and finance teams in New Zealand
+- SaaS and Startups: Flexible, scalable CRM for early-stage and high-growth teams
+- Property Development and Surveying: CRM for property developers, valuers, and surveying teams
+- Non-Profits: Affordable CRM for volunteer, fundraising, and event management
+
+## Location
+Auckland, New Zealand. Serving clients across New Zealand.
+
+## Contact
+Website: https://www.zippily.co.nz
+Contact page: https://www.zippily.co.nz/contact
+Book a consultation: https://meetings-ap1.hubspot.com/stowson
+
+## Key Pages
+- HubSpot Implementation: https://www.zippily.co.nz/hubspot-crm-implementation
+- HubSpot Training: https://www.zippily.co.nz/hubspot-training
+- Marketing Automation: https://www.zippily.co.nz/marketing-automation
+- CRM for Financial Services: https://www.zippily.co.nz/crm-for-finance
+- CRM for SaaS and Startups: https://www.zippily.co.nz/crm-for-startups-and-saas
+- CRM for Property: https://www.zippily.co.nz/crm-for-property
+- CRM for Non-Profits: https://www.zippily.co.nz/crm-for-non-profits
+- About Us: https://www.zippily.co.nz/about-us
+- Blog: https://www.zippily.co.nz/blog
